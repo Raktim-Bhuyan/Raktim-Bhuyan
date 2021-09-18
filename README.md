@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raktim-bhuyan" alt="raktim-bhuyan" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/raktimbhuyan12" target="blank"><img src="https://img.shields.io/twitter/follow/raktimbhuyan12?logo=twitter&style=for-the-badge" alt="raktimbhuyan12" /></a> </p>
+
 - 📫 How to reach me **bhuyanraktim20@gmail.com**
 
 - ⚡ Fun fact **I wanna create a RB World**
@@ -31,3 +33,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raktim-bhuyan&show_icons=true&locale=en&layout=compact" alt="raktim-bhuyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raktim-bhuyan&show_icons=true&locale=en" alt="raktim-bhuyan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raktim-bhuyan&" alt="raktim-bhuyan" /></p>
+
