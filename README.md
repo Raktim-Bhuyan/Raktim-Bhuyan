@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raktim Bhuyan</h1>
-<h3 align="center">Competitive Programmer ,Full Stack Developer and Web 3.0 enthusiast</h3>
+<h3 align="center">A software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raktim-bhuyan&label=Profile%20views&color=0e75b6&style=flat" alt="raktim-bhuyan" /> </p>
 
